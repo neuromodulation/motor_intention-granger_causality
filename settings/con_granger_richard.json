@@ -1,0 +1,44 @@
+{
+    "power_method": "cwt_morlet",
+    "fmin": 4.0,
+    "fmax": 100.0,
+    "fskip": 0,
+    "faverage": false,
+    "tmin": null,
+    "tmax": null,
+    "mt_bandwidth": 5,
+    "mt_adaptive": true,
+    "mt_low_bias": true,
+    "cwt_freq_range": [
+        4.0,
+        100.0
+    ],
+    "cwt_freq_resolution": 1.0,
+    "cwt_n_cycles": 15.0,
+    "n_components": "rank",
+    "n_lags": 30,
+    "average_windows": true,
+    "average_timepoints": false,
+    "block_size": 1000,
+    "n_jobs": 8,
+    "seeds": {
+        "grouping": [
+            "ch_subregions"
+        ],
+        "eligible_entries": {
+            "ch_types": [
+                "ecog"
+            ]
+        }
+    },
+    "targets": {
+        "grouping": [
+            "ch_subregions"
+        ],
+        "eligible_entries": {
+            "ch_types": [
+                "dbs"
+            ]
+        }
+    }
+}

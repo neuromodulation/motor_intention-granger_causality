@@ -1,0 +1,322 @@
+[
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL002",
+        "ses": "EcogLfpMedOff03",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL003",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL003",
+        "ses": "EcogLfpMedOn03",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL004",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL004",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL005",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL005",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL006",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL006",
+        "ses": "EcogLfpMedOn02",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL007",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL007",
+        "ses": "EcogLfpMedOn02",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL008",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL008",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL009",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL009",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationR",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL010",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL010",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL011",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL011",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL012",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL012",
+        "ses": "EcogLfpMedOn02",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL013",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL013",
+        "ses": "EcogLfpMedOn02",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL014",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL014",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL015",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL015",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL016",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL016",
+        "ses": "EcogLfpMedOn02",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL017",
+        "ses": "EcogLfpMedOff01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_01_Berlin_Neurophys",
+        "sub": "EL017",
+        "ses": "EcogLfpMedOn01",
+        "task": "SelfPacedRotationL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG006",
+        "ses": "EcogLfpMedOn01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG008",
+        "ses": "EcogLfpMedOn01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG010",
+        "ses": "EcogLfpMedOff01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG012",
+        "ses": "EcogLfpMedOff01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG014",
+        "ses": "EcogLfpMedOff01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG016",
+        "ses": "EcogLfpMedOff01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG021",
+        "ses": "EcogLfpMedOn01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOG022",
+        "ses": "EcogLfpMedOff01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    },
+    {
+        "cohort": "BIDS_Beijing_ECOG_LFP",
+        "sub": "FOGC001",
+        "ses": "EcogLfpMedOff01",
+        "task": "ButtonPressL",
+        "acq": "StimOff",
+        "run": "1"
+    }
+]
