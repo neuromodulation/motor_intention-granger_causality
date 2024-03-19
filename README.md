@@ -2,7 +2,7 @@
 
 Used in the manuscript: Köhler _et al._ (Pre-print). Dopamine and neuromodulation accelerate the neural dynamics of volitional action in Parkinson’s disease. DOI: [10.1101/2023.10.30.564700](https://doi.org/10.1101/2023.10.30.564700).
 
-Relies on a modified version of the MNE-Connectivity package, available here: [github.com/neuromodulation/mne-connectivity_tsbinns](https://github.com/neuromodulation/mne-connectivity_tsbinns)
+Relies on a modified version of the MNE-Connectivity package, available here: [github.com/neuromodulation/mne-connectivity_tsbinns](https://github.com/neuromodulation/mne-connectivity_tsbinns/tree/1.0.0)
 
 ### Use
 
